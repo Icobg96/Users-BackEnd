@@ -1,0 +1,5 @@
+com/user/test/Integration/RoleServiceIntegrationTest.class
+com/user/test/unit/UserServiceUnitTest.class
+com/user/test/unit/RoleServiceUnitTest.class
+com/user/test/Integration/UserServiceIntegrationTest.class
+com/user/test/AppTest.class

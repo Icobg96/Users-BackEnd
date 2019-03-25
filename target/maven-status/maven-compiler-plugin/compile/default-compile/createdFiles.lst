@@ -1,0 +1,13 @@
+com/user/entity/IEntity.class
+com/user/dto/IDto.class
+com/user/dto/UserDto.class
+com/user/entity/User.class
+com/user/dto/RoleDto.class
+com/user/service/RoleRestService.class
+com/user/entity/Identifiable.class
+com/user/JerseyConfig.class
+com/user/App.class
+com/user/service/UserRestService.class
+com/user/repository/UserRepository.class
+com/user/repository/RoleRepository.class
+com/user/entity/Role.class

@@ -1,0 +1,13 @@
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/entity/Identifiable.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/repository/UserRepository.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/entity/IEntity.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/dto/IDto.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/service/RoleRestService.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/repository/RoleRepository.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/dto/UserDto.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/entity/Role.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/JerseyConfig.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/service/UserRestService.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/dto/RoleDto.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/entity/User.java
+/home/hristo/eclipse-workspace/com.user/src/main/java/com/user/App.java
